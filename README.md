@@ -1,1 +1,1 @@
-# synchronybank
+# synchronybank - Go Phish Assignment
